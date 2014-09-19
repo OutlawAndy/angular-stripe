@@ -1,0 +1,22 @@
+{
+  "name": "angular-stripe",
+  "version": "0.0.0",
+  "authors": [
+    "Andy Cohen <outlawandy@gmail.com>"
+  ],
+  "description": "minimal anular wrapper around stripe.js",
+  "main": "angular-stripe.js",
+  "keywords": [
+    "Angular",
+    "Stripe",
+    "Payments"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
